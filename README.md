@@ -31,4 +31,4 @@ The above code can also be downloaded from [the following link of COMPAS.](https
 - 의의: 도시화 지역을 그리드화+모델링을 결합한 분석은 새로운 접근이었다고 생각, 피프틴 사용자의 이용특성을 반영한 입지분석으로 사용자들이 만족할 최적 위치에 입지할 수 있을 것을 기대
 - 한계: 기존 피프틴 스테이션의 수가 적어 학습 데이터의 수가 적었다는 점, 좀 더 세부적인 위치에 해당하는 데이터의 부족으로 모델링에 아쉬움이 있었음
 
-<img src=https://user-images.githubusercontent.com/48719168/111165057-f6390580-85e1-11eb-9000-25b8f7ace710.jpg  width="450" height="500"> <img src=https://user-images.githubusercontent.com/48719168/111272769-61341c00-8676-11eb-8394-5edf477f6487.jpg  width="450" height="500">
+<img src=https://user-images.githubusercontent.com/48719168/111165057-f6390580-85e1-11eb-9000-25b8f7ace710.jpg  width="400" height="450"> <img src=https://user-images.githubusercontent.com/48719168/111272769-61341c00-8676-11eb-8394-5edf477f6487.jpg  width="400" height="450">
