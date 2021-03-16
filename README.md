@@ -5,7 +5,7 @@ COMPAS에서 주최한 고양시의 자전거 대여소(피프틴)의 새로운 
 
 A location analysis project was conducted to derive data from a new location at a bicycle rental station (Fifteen) in Goyang City hosted by COMPAS.
 It was held from July to August of 2020, and was awarded the __Encouragement Prize__ in this competition.
-The above code can also be downloaded from [the following link of COMPAS]((https://compas.lh.or.kr/subj/past/code?subjNo=SBJ_2007_001&teamNo=590).
+The above code can also be downloaded from [the following link of COMPAS].((https://compas.lh.or.kr/subj/past/code?subjNo=SBJ_2007_001&teamNo=590)
 
 ---
 ### 1. Background
